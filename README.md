@@ -24,7 +24,11 @@
 
 ## 🧐 About <a name = "about"></a>
 
-These Scripts aims to help with the data migration process making it more efficient in the modification and extraction process
+These Scripts aims to help with the data migration process making it more efficient in the modification and extraction process:
+1. O1_Selenium_Migration.py; This script uses Python Selenium to help solve the limitation posted by Bentely API. By using Selenium to extract form data from the frontend.
+2. O1_Migration_Script_Bentley_API.py; This script uses Bentley API to extract forms, audit log, attachments and comments.
+3. Bentley_API_Reassigner.py; This script uses Bentley API to change the form status and reassign it to another user.
+4. Bentley_API_Size_Tracker.py; This script uses Benley API to download the froms, audit logs, attachments and comments from specific projects so the user can estimate the project size 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
