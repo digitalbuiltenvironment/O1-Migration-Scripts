@@ -28,6 +28,7 @@ These Scripts aims to help with the data migration process making it more effici
 2. O1_Migration_Script_Bentley_API.py; This script uses Bentley API to extract forms, audit log, attachments and comments.
 3. Bentley_API_Reassigner.py; This script uses Bentley API to change the form status and reassign it to another user.
 4. Bentley_API_Size_Tracker.py; This script uses Benley API to download the froms, audit logs, attachments and comments from specific projects so the user can estimate the project size 
+5. PDF_Creation_Date_Extractor.py; This script extracts the form creation date from the PDFs 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -35,7 +36,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What needs to be installed beforehand
+What needs to be installed beforehand:
+Selenium needs to bee installed before running the Selenium Migraation script
 ```
 1. Selenium
 ```
