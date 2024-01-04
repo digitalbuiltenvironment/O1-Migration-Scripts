@@ -24,7 +24,7 @@
 ## 🧐 About <a name = "about"></a>
 
 These Scripts aims to help with the data migration process making it more efficient in the modification and extraction process:
-    Bentley_API_Reassigner.py; This script uses Bentley API to change the form status and reassign it to another user.
+ - Bentley_API_Reassigner.py; This script uses Bentley API to change the form status and reassign it to another user.
 
 ## 🎈 Usage <a name="usage"></a>
 Run the scripts using the command:
