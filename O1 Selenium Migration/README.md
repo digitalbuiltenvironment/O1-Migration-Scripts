@@ -44,7 +44,12 @@ A step by step series of examples that tell you how to get a development env run
 
 Using Python pip install to install selenium
 ```
+pip install -r requirements.txt
+```
+or
+```
 pip install selenium
+pip install webdriver-manager
 ```
 
 ## 🎈 Usage <a name="usage"></a>
